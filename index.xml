@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenguas y culturas</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Lenguas y culturas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 Lenguas.</copyright>
+    <lastBuildDate>Sun, 13 May 2018 04:49:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secondpost</title>
+      <link>http://www.example.com/2018/05/13/secondpost/</link>
+      <pubDate>Sun, 13 May 2018 04:49:28 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/2018/05/13/secondpost/</guid>
+      <description>second awesome!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Sun, 13 May 2018 04:45:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/about/</guid>
+      <description>This is an example of an about page.</description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>http://www.example.com/2018/05/13/firstpost/</link>
+      <pubDate>Sun, 13 May 2018 04:45:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/2018/05/13/firstpost/</guid>
+      <description>awesome</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://www.example.com/home/</link>
+      <pubDate>Sun, 13 May 2018 04:45:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/home/</guid>
+      <description>home page</description>
+    </item>
+    
+  </channel>
+</rss>
